@@ -1,0 +1,23 @@
+{
+  "name": "@miup/nest-log4j",
+  "version": "1.0.2",
+  "private": false,
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^5.5.0",
+    "@nestjs/core": "^5.5.0",
+    "log4js": "^3.0.6",
+    "reflect-metadata": "^0.1.12",
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  },
+  "description": ""
+}
